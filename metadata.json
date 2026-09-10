@@ -1,0 +1,6 @@
+{
+  "name": "EmotiCare",
+  "description": "A deeply empathetic emotional support companion and mindful journaling sanctuary to process feelings, build resilience, and discover emotional patterns.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
