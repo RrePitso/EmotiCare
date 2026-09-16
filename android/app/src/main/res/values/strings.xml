@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EmotiCare</string>
+    <string name="title_activity_main">EmotiCare</string>
+    <string name="package_name">com.emoticare.app</string>
+    <string name="custom_url_scheme">com.emoticare.app</string>
+</resources>
